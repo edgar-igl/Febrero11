@@ -1,4 +1,4 @@
 # Febrero11
 ## Proyecto CODE
-### Pagina WEB de chistes
-#### Esta WEB será la referente a nivel mundial en cuanto a humor
+### Pagina WEB de pruebas para CODE
+#### Esta web es una prueba
